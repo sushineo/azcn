@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chamevidai.com/static/sitemap.xml
